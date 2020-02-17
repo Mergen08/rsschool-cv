@@ -1,0 +1,13 @@
+.container {
+  width: 1024px;
+  margin: 0 auto;
+}
+
+.image {
+  width: 100%;
+}
+
+img {
+  max-width: 100%;
+  width: 100%;
+}
